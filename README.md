@@ -1,9 +1,14 @@
-### Hi there 👋
-DefaultText
+<h1 align="center">Hi there 👋</h1>
 
+<h3 align="center">Name's Radiant!</h3>
+<p align="center"><i>Trying </i>to be an okay programmer haha 😔</p>
+<!-- <br> stands for Bruh-->
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/>
+</p>
+Does this text placement bother you? :)
 
-:)
 <!--
 **RadiantDerg/RadiantDerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
