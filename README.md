@@ -5,6 +5,7 @@
 <!-- <br> stands for Bruh-->
 
 <p align="center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/> -->
     <img src="https://github-readme-stats.vercel.app/api?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/>
 </p>
 <br>
