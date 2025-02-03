@@ -8,14 +8,15 @@
 <!-- <br> stands for Bruh-->
 <br>
 
-
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/>
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/>  -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=RadiantDerg&show_icons=true&title_color=FA9D20&text_color=FFECE9&icon_color=FBBC18&bg_color=181818"/>  ->
 </p>
+-->
 
 <h3 align="center">
-    Progress on Dimps related projects can be found <a href="https://trello.com/b/sLmJ7Uj7">here</a>
+    Progress on Dimps related projects can be found <a href="https://trello.com/b/">here</a>
 </h3>
 
 <p align="center"><i>I'm trying to be a decent programmer ahah..</i> <s>😔</s></p>
